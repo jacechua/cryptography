@@ -1,2 +1,2 @@
 # cryptography
-Cryptography in theory and practice in cloud architectures.
+Cryptography in theory, implementation, and in practice.
