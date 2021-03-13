@@ -1,2 +1,2 @@
 # cryptography
-Cryptography in theory, implementation, and in practice.
+Cryptography in theory, code, and implementation.
